@@ -275,7 +275,7 @@ Create a new branch so you can check items like this, just put an x in the brack
 
 **[⬆ back to top](#table-of-contents)**
 
-## A Note About Video Resources 🔖(bookmark)
+## A Note About Video Resources
 
 Some videos are available only by enrolling in a Coursera or EdX class. These are called MOOCs.
 Sometimes the classes are not in session so you have to wait a couple of months, so you have no access.
@@ -483,6 +483,7 @@ without lyrics and you'll be able to focus pretty well.
 
 **[⬆ back to top](#table-of-contents)**
 
+## Bookmark
 ## What you won't see covered
 
 These are prevalent technologies but not part of this study plan:
