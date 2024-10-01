@@ -483,7 +483,6 @@ without lyrics and you'll be able to focus pretty well.
 
 **[⬆ back to top](#table-of-contents)**
 
-## Bookmark
 ## What you won't see covered
 
 These are prevalent technologies but not part of this study plan:
@@ -540,6 +539,7 @@ Gets messy quickly. **I use a pencil and eraser.**
 
 **[⬆ back to top](#table-of-contents)**
 
+## Bookmark
 ## Coding Problems
 
 Don't forget your key coding interview books [here](#interview-prep-books).
